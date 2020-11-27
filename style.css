@@ -1,0 +1,30 @@
+
+body {
+    position: relative;
+}
+#container {
+    width: 320px;
+    height: 320px;
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+div {
+    width: 30px;
+    height: 30px;
+    margin: 1px;
+    background-color: white;
+}
+.ship4length {
+    background-color: red;
+}
+.ship3length {
+    background-color: blue;
+}
