@@ -24,11 +24,11 @@ function generateTable(){
     }
 
     generateShip1()
-    // generateShip2()
-    // generateShip2()
-    // generateShip3()
-    // generateShip3()
-    // generateShip3()
+    generateShip2()
+    generateShip2()
+    generateShip3()
+    generateShip3()
+    generateShip3()
     generateShip4()
     generateShip4()
     generateShip4()
